@@ -1,4 +1,4 @@
-<strong>📝 Task Management Application </strong>
+<h1>📝 Task Management Application </h1>
 Overview
 
 This is a comprehensive Task Management Application developed for an assignment with Pedal Start. The application allows users to create, view, edit, and delete tasks. Additionally, it includes features to add and delete collaborators, and to add comments which can be viewed by both parties. The backend is built with Node.js, the database is managed with MySQL, the frontend is developed using Next.js, and Firebase is used for authentication.
